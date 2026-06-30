@@ -1,2 +1,2 @@
 # IT-Learning-Journey
-My journey leraning IT, networking, Linux, Python and cybersecurity
+I am Moussa a first-year Computer Networks and Systems student with a clear goal: earning a master's degree in cybersecurity and becoming a Cybersecurity profressional. My interest lies at the intersection of defensive security, offensive techniques, and network protection, areas where understanding how attacks work is essential to building stronger defenses. I bring strong time management and the ability to learn quickly in fast-changing environments, skills I have applied through independent hands-on practice with TryHackMe, and the Google Cybersecurity Certificate. 
